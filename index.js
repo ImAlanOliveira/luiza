@@ -1,0 +1,6 @@
+alert('Olá Luiza, eu sou o Google do Alan, venho em nome dele para lhe fazer um convite.\n(Aperte no ok para continuar)')
+alert('Gostaria de saber se você aceitaria ir a um encontro em um lugar muito lindo que faz representação de uma cidade italiana, localizado na Lagoa da Pampulha... (1/5)')
+alert('Neste encontro vocês irão:\n1 - Tomar um cafezinho e comer um ótimo bolo na cafeteria "Bolos de julieta".\n2 - Caminhar pelo maravilhoso lugar e apreciar o quão belo ele é.\n3 - Tirar uma fotinha juntos visto que vocês ainda não possuem tantas.\n4 - Fazer uma agradável caminhada pela lagoa da pampulha (ela não fede mais kkkkkkk).\n5 - Para a tranquilidade da sua mãe a senhorita será deixada em casa em total segurança e será tratada com todo carinho do mundo (isso vale para todos os encontros de vocês). (2/5)')
+alert('Caso você aceite o encontro, peço que informe o Alan no WPP (com o dia que você estará disponível), ele não consegue ver o nosso diálogo por aqui.(3/5)')
+alert('Inclusive...vou te contar um segredo sobre o Alan... (4/5)')
+alert('Ele ta gostando de você, e te conhecer tem sido muito legal e divertido <- palavras dele. (5/5)')
